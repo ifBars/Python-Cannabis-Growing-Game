@@ -1,9 +1,5 @@
 from weed_game import WeedGame
-import asyncio
 
-async def main():
+if __name__ == "__main__":
     game = WeedGame()
     game.main_loop()
-    await asyncio.sleep(0)
-    
-asyncio.run(main())
