@@ -1,0 +1,146 @@
+[
+    {
+        "name": "Green Crack",
+        "type": "Sativa",
+        "thc": 22.0,
+        "cbd": 0.2
+    },
+    {
+        "name": "Purple Haze",
+        "type": "Sativa",
+        "thc": 18.0,
+        "cbd": 0.5
+    },
+    {
+        "name": "White Widow",
+        "type": "Hybrid",
+        "thc": 19.0,
+        "cbd": 0.6
+    },
+    {
+        "name": "Northern Lights",
+        "type": "Indica",
+        "thc": 24.0,
+        "cbd": 0.3
+    },
+    {
+        "name": "AK-47",
+        "type": "Hybrid",
+        "thc": 21.0,
+        "cbd": 0.4
+    },
+    {
+        "name": "Jack Herer",
+        "type": "Sativa",
+        "thc": 18.5,
+        "cbd": 0.7
+    },
+    {
+        "name": "Gorilla Glue",
+        "type": "Hybrid",
+        "thc": 25.0,
+        "cbd": 0.1
+    },
+    {
+        "name": "Trainwreck",
+        "type": "Sativa",
+        "thc": 23.5,
+        "cbd": 0.3
+    },
+    {
+        "name": "Chemdawg",
+        "type": "Hybrid",
+        "thc": 22.0,
+        "cbd": 0.5
+    },
+    {
+        "name": "Bruce Banner",
+        "type": "Hybrid",
+        "thc": 24.0,
+        "cbd": 0.4
+    },
+    {
+        "name": "Granddaddy Purple",
+        "type": "Indica",
+        "thc": 20.0,
+        "cbd": 0.8
+    },
+    {
+        "name": "Sour Diesel",
+        "type": "Sativa",
+        "thc": 21.5,
+        "cbd": 0.6
+    },
+    {
+        "name": "Cherry Pie",
+        "type": "Hybrid",
+        "thc": 19.0,
+        "cbd": 0.7
+    },
+    {
+        "name": "Blue Dream",
+        "type": "Sativa",
+        "thc": 20.0,
+        "cbd": 0.5
+    },
+    {
+        "name": "OG Kush",
+        "type": "Indica",
+        "thc": 25.0,
+        "cbd": 1.0
+    },
+    {
+        "name": "Girl Scout Cookies",
+        "type": "Hybrid",
+        "thc": 23.0,
+        "cbd": 0.8
+    },
+    {
+        "name": "Pineapple Express",
+        "type": "Sativa",
+        "thc": 19.5,
+        "cbd": 0.4
+    },
+    {
+        "name": "White Rhino",
+        "type": "Indica",
+        "thc": 21.0,
+        "cbd": 0.2
+    },
+    {
+        "name": "Strawberry Cough",
+        "type": "Sativa",
+        "thc": 17.5,
+        "cbd": 0.6
+    },
+    {
+        "name": "Blackberry Kush",
+        "type": "Indica",
+        "thc": 24.5,
+        "cbd": 0.3
+    },
+    {
+        "name": "Bubblegum Kush",
+        "type": "Hybrid",
+        "thc": 22.5,
+        "cbd": 0.5
+    },
+    {
+        "name": "Amnesia Haze",
+        "type": "Sativa",
+        "thc": 21.0,
+        "cbd": 0.7
+    },
+    {
+        "name": "Master Kush",
+        "type": "Indica",
+        "thc": 18.0,
+        "cbd": 0.9
+    },
+    {
+        "name": "Tangerine Dream",
+        "type": "Hybrid",
+        "thc": 20.5,
+        "cbd": 0.4
+    }
+]
